@@ -1,5 +1,7 @@
 ## Taller 1 - Transformaciones Básicas en Computación Visual
 
+> Para el desarrollo y guía de actividades estoy usando la sección de **Wiki** del repositorio, es decir allí se encuentra mi Bitacora y cada página contiene la información del desarrollo de las actividades.
+
 ### Objetivo
 
 Explorar conceptos fundamentales de **transformaciones geométricas** (traslación, rotación y escala) en distintos entornos de programación visual. Cada implementación debe mostrar un objeto o escena básica con transformaciones **estáticas y animadas en función del tiempo**.
