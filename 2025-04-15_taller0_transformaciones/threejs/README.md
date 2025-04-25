@@ -2,6 +2,8 @@
 
 Este proyecto consiste en una escena 3D interactiva de un cubo que cambia de colores desarrollada con **Vite**, **React**, **Three.js** y **React Three Fiber**.
 
+> La bitácora y desarrollo puntual del ejercicio se encuentra en el wiki del repositorio.
+
 ## Características principales
 - Cubo 3D animado
 - Movimiento circular con función senoidal
