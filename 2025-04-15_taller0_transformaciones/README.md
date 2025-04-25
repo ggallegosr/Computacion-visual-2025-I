@@ -1,6 +1,6 @@
 ## Taller 1 - Transformaciones Básicas en Computación Visual
 
-> Para el desarrollo y guía de actividades estoy usando la sección de **Wiki** del repositorio, es decir allí se encuentra mi Bitacora y cada página contiene la información del desarrollo de las actividades.
+> Para el desarrollo y guía de actividades estoy usando la sección de **Wiki** del repositorio, es decir allí se encuentra mi Bitacora y en la página que tiene el mismo nombre del taller se encuentra la información del desarrollo de las actividades.
 
 ### Objetivo
 
