@@ -1,20 +1,19 @@
-# 🧪 Taller - Rasterización desde Cero: Dibujando con Algoritmos Clásicos
+# Rasterización desde Cero: Dibujando con Algoritmos Clásicos
 
-## 🔍 Objetivo del taller
+## 🔍 Objetivo
 
 Comprender e implementar los **algoritmos clásicos de rasterización** para líneas, círculos y triángulos, entendiendo cómo se construyen imágenes píxel a píxel en una pantalla. El objetivo es desarrollar una base sólida sobre cómo se generan primitivas gráficas sin usar librerías de alto nivel.
 
-Estructura:
+> La bitácora y desarrollo puntual del ejercicio se encuentra en el wiki del repositorio.
+
+## Librerías utilizadas
+
+```Python
+import matplotlib.pyplot as plt
+import numpy as np
+from PIL import Image, ImageDraw
 
 ```
-yyyy-mm-dd_taller_algoritmos_rasterizacion_basica/
-├── python/
-│   └── rasterizacion_algoritmos.ipynb
-├── resultados/
-│   ├── linea.png
-│   ├── circulo.png
-│   ├── triangulo.png
-├── README.md
-```
+
 
 
