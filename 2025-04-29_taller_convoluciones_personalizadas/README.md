@@ -15,6 +15,7 @@ Este taller se desarrolla en Python usando OpenCV.
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
+from ipywidgets import interact, IntSlider, VBox # Seccion interactiva
 ```
 
 
