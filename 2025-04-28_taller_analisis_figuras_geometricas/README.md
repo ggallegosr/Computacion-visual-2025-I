@@ -15,5 +15,7 @@ Este taller se desarrolla en Python usando OpenCV.
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
+import imageio.v2 as imageio
+import os
 ```
 
