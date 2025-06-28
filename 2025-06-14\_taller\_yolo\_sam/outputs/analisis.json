@@ -1,0 +1,28 @@
+[
+    {
+        "objeto_id": 0,
+        "clase": "dog",
+        "x1": 191,
+        "y1": 16,
+        "x2": 879,
+        "y2": 804,
+        "area_pixeles": 371995,
+        "area_%": 29.65,
+        "perimetro": 2672.84,
+        "centroide_x": 571,
+        "centroide_y": 437
+    },
+    {
+        "objeto_id": 1,
+        "clase": "cat",
+        "x1": 798,
+        "y1": 309,
+        "x2": 1255,
+        "y2": 760,
+        "area_pixeles": 134337,
+        "area_%": 10.71,
+        "perimetro": 1676.96,
+        "centroide_x": 1012,
+        "centroide_y": 554
+    }
+]
